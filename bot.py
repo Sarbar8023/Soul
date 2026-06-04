@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 BOT_TOKEN = "8660091001:AAHWxYEledSTnvQdChoKkXDAFDqOC7kVHkA"
 YML_FILE_PATH = ".gitlab-ci.yml"
 BINARY_FILE_NAME = "bgmi"
-ADMIN_IDS = [1600832237,1600832237]
+ADMIN_IDS = [1725783398]
 TARGET_PROJECT_NAME = "soulcrack-worker"  # NEW: Name of project to auto-create
 
 # Conversation states
