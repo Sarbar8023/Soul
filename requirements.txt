@@ -1,6 +1,6 @@
-python-telegram-bot=21.7
+python-telegram-bot==21.5
 python-gitlab
-requests
-aiohttp
+requests==2.31.0
+asyncio==3.4.3
 telebot
 pyTelegramBotAPI
